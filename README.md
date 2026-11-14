@@ -4,7 +4,7 @@ A simple implementation of **Conway's Game of Life** written in **C** using�
 
 ## Preview
 
-![Simulation](preview/simulation.gif)
+![Simulation](simulation.gif)
 
 ## Controls
 
